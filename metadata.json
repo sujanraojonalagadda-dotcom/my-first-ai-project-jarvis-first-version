@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "A high-performance AI assistant with voice interaction, sci-fi UI, and local file management simulations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["voice_interaction", "local_ai", "system_simulation"]
+}
